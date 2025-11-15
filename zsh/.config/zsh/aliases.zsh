@@ -10,3 +10,6 @@ alias lt='ls --tree'
 
 # vim
 alias vim='nvim'
+
+# helix
+alias e='helix'
