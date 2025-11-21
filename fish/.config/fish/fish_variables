@@ -1,5 +1,6 @@
 # This file contains fish universal variable definitions.
 # VERSION: 3.0
+SETUVAR --export EDITOR:helix
 SETUVAR --export XDG_CACHE_HOME:/home/jp/\x2ecache
 SETUVAR --export XDG_CONFIG_HOME:/home/jp/\x2econfig
 SETUVAR --export XDG_DATA_HOME:/home/jp/\x2elocal/share
