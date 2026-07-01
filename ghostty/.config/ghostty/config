@@ -2,4 +2,4 @@ config-file = theme.conf
 config-file = font.conf
 config-file = keybind.conf
 
-shell-integration-features = no-cursor,no-sudo,title,no-ssh-env,no-ssh-terminfo,path
+shell-integration-features = no-cursor,no-sudo,title,ssh-env,ssh-terminfo,path
